@@ -18,4 +18,4 @@ for i in input:
     letter = list_input[1].replace(':', '')
     #----------FIX LAST INPUT [X]----------
     #print(list_input[2])
-    #if statement [-]
+    #----------FIX IF STATEMENT [-] ----------
